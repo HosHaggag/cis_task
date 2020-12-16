@@ -48,7 +48,7 @@ class AppBody extends StatelessWidget {
                   Positioned(child:
                   Text('Top 10 Cities To Visit In Cairo',
                     style: TextStyle(
-                        fontSize: 22,fontStyle: FontStyle.normal,fontWeight: FontWeight.w700,color: Colors.black),)
+                        fontSize: 22,fontStyle: FontStyle.normal,fontWeight: FontWeight.w700,color: Colors.white),)
                     ,bottom: 20,
                   left: MediaQuery.of(context).size.width/25,)]),
               SizedBox(height: 10,),
